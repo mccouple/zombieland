@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: arial;
+}
+body{
+    background-color: rgba(22, 15, 15, 0.74);
+}
+.form{
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 50px;
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-bottom: 5px;
+    padding-bottom: 50px;
+    border-radius: 7px;
+    border-color: rgb(19, 16, 16);
+    background-image: url(edited/1.jpg);
+}
+.form button{
+    padding: 5px;
+    background-color: rgb(114, 70, 39);
+    cursor: pointer;
+    margin: 10px;
+    border-radius: 7px;
+}
+.form input{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+.form h1{
+    text-align: center;
+    font-weight: bold;
+    color: antiquewhite;
+}
+    .form p {
+          font-weight: bold;
+          color: antiquewhite;
+    }
+    
+    .ul li a{
+        text-decoration: none;
+        color: aliceblue;
+        font-size: 20px;
+    }
